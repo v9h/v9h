@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/6d/cf/20/6dcf20b7f96dd4108e1f95ee800730f6.gif">
 </a>
 
 - I'm a **Lain** addict.
