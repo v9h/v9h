@@ -61,10 +61,7 @@ What I do on here:
 
 <br/>
 
-#
-<p align="center">  
-  ## 🔥 My contribution streak
- <p/>
+## 🔥 My contribution streak
 
 <p align="center">
   <a href="https://github.com/smir45/github-readme-streak-stats">
