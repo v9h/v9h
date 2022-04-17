@@ -18,6 +18,7 @@
 - I know **Lua**, Python and a bit of everything mostly.
 - Looking for any partnership on projects, don't be afraid to contact!
 - Pronouns: **they/them**
+- Yes, I am **nadic**!!!
 
 
 <br/>
