@@ -43,7 +43,6 @@
 
 
 <br/>
-<br/>
 What I do on here:
 <br/>
 - Practice skills
