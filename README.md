@@ -69,7 +69,7 @@ What I do on here:
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/v9h?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">Scroll for my<a href="https://github.com/v9h?tab=repositories">repositories</a>! Stars are cool to me <3</h3>
 
 
 
@@ -91,3 +91,6 @@ What I do on here:
 
 
 <br/>
+<p align="center">  
+  <img src="https://media1.giphy.com/media/WF0Imkn7Sladq/giphy.gif" alt="Bye!">
+  </p>
