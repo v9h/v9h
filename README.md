@@ -55,7 +55,7 @@ What I do on here:
 <br/>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"></code>
-<code><img height="40" width="40" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"></code>
+<code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/14807257?s=200&v=4"></code>
 <code><img height="40" width="40" src="https://clipart-best.com/img/trollface/trollface-clip-art-7.png"></code>
 
