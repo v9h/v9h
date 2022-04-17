@@ -14,10 +14,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **everything**
-- 🌱 I’m currently learning **C# and C++**
-- 👯 I’m looking to collaborate on **anything**
-- 😄 Pronouns : **He/Him/His**
+- I'm a **Lain** addict.
+- I know **Lua**, Python and a bit of everything mostly.
+- Looking for any partnership on projects, don't be afraid to contact!
+- Pronouns: **they/them**
 
 
 <br/>
@@ -25,7 +25,7 @@
 
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=v9h" alt="smir45" />
+  <img src="https://komarev.com/ghpvc/?username=v9h" alt="v9h" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/v9h?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/v9h?label=Stars" alt="Total Stars">
 </p>
