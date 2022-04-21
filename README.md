@@ -30,6 +30,9 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/v9h?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/v9h?label=Stars" alt="Total Stars">
 </p>
+<p align="center">  
+  Your views are logged.
+ </p>
 
 
 
