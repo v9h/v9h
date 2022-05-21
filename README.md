@@ -19,6 +19,7 @@
 - Looking for any partnership on projects, don't be afraid to contact!
 - Pronouns: **they/them**
 - Yes, I am **nadic**!!!
+- The projects I'm working on are always pinned!
 
 
 <br/>
