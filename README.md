@@ -1,29 +1,3 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  THIS IS THE REAL VOIDFUNCTION
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
-  </a>
-</h1>
-
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" width = '200' height = '200' src="https://i.pinimg.com/originals/6d/cf/20/6dcf20b7f96dd4108e1f95ee800730f6.gif">
-</a>
-
-- I'm a **Lain** addict.
-- I know **Lua**, Python and a bit of everything mostly.
-- Looking for any partnership on projects, don't be afraid to contact!
-- Pronouns: **they/them**
-- Yes, I am **nadic**!!!
-- The projects I'm working on are always pinned!
-
-
-<br/>
-<br/>
 
 
 <p align="center">  
@@ -40,33 +14,9 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://data.whicdn.com/images/323877210/original.gif"></a>
-<br/>
 
+<br>
 
-**RANDOM STUFF:**  
-
-
-<br/>
-What I do on here:
-<br/>
-- Practice skills
-<br/>
-- Attempt on becoming good coder (never)
-<br/>
-- Store my code
-<br/>
-<br/>
-<br/>
-
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"></code>
-<code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"></code>
-<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/14807257?s=200&v=4"></code>
-<code><img height="40" width="40" src="https://clipart-best.com/img/trollface/trollface-clip-art-7.png"></code>
-
-<br/>
-
-## 🔥 My contribution streak
 
 <p align="center">
   <a href="https://github.com/smir45/github-readme-streak-stats">
@@ -74,14 +24,14 @@ What I do on here:
   </a>
 </p>
 
-<h3 align="center">Scroll for my <a href="https://github.com/v9h?tab=repositories">repositories</a>! Stars are cool to me <3</h3>
+<h3 align="center">Scroll for my <a href="https://github.com/v9h?tab=repositories">repositories</a>!</h3>
 
 
 
 
 <br/>
 
-### ⚙️ &nbsp; GitHub Analytics
+<p align="center"> ⚙️ GitHub Analytics</p>
 
 <p align="center">
 <a href="https://github.com/v9h">
